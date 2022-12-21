@@ -1,0 +1,17 @@
+.img-blog {
+  float: left;
+  padding: 0 10px 0 0;
+}
+
+.text-blog {
+  text-align: justify;
+}
+
+span.icon i {
+  font-size: 2em;
+}
+
+#footer a {
+  text-decoration: none;
+  color: black;
+}
